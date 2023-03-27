@@ -1,0 +1,17 @@
+<body>
+    <h1 class="d-flex justify-content-center">{{'landing.welcome' | translate}}</h1>
+    <h3 class="d-flex justify-content-center text-muted">{{'landing.desc' | translate}}</h3>
+    <div class="carousel container">
+      <app-carousel></app-carousel>
+    </div>
+    <div class="get-started-button">
+      <button
+        pButton
+        label="{{'landing.bGetStarted' | translate}}"
+        class="p-button-raised p-button-rounded"
+        class="p-button-danger"
+        styleClass="p-button-lg"
+        routerLink="/auth" 
+      ></button>
+    </div>
+</body>

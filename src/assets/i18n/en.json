@@ -1,0 +1,66 @@
+{
+  "movies": "Movies",
+  "series": "Series",
+  "availableMovies":"Available Movies",
+  "rent":"Rent",
+  "return":"Return",
+  "yourMovies":"Your Movies",
+
+  "navbar": {
+    "home": "Home",
+    "movies": "Movies",
+    "rent": "Rent",
+    "login": "Login",
+    "logout": "Logout",
+    "addmovies": "Add Movies",
+    "dataBase": "DataBase",
+    "analytics":"Analytics"
+    
+
+  },
+  "auth": {
+    "email": "Please enter your e-mail address",
+    "password": "Please enter your password :",
+    "login": "Log in",
+    "signup": "Signup",
+    "account": "Don't have an account? click here",
+    "already_have": "Already have an account? Click here",
+    "pass": "Password",
+    "em": "Email"
+  },
+  "items": {
+    "Home": "Home",
+    "Addmovies": "Add Movies",
+    "DataBase": "DataBase"
+  },
+  "landing": {
+    "welcome": "Welcome to ",
+    "desc": "The biggest movie base on the Internet",
+    "bGetStarted": "Get Started"
+  },
+  "carousel": {
+    "about": "About",
+    "favorite": "Favorite"
+  },
+  "denied": {
+    "desc": "Access Denied",
+    "permission":"You do not have permission to access this page."
+  },
+  "footer":{
+    "home": "Home",
+    "features":"Features",
+    "about":"About"
+
+  },
+  "admin":{
+    "nonRented": "not rented movies",
+    "rented": "rented movies"
+  },
+  "errors":{
+    "no_movies_available": "Currently there is no movies available in our store.",
+    "api_not_working": "Api not working at the moment :)",
+    "enter_search": "Please enter your search!",
+    "no_rented_movies": "Currently you have no rented movies"
+  }
+}
+

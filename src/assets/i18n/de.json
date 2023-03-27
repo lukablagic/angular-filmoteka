@@ -1,0 +1,67 @@
+{
+    
+    "movies": "Filme",
+    "series": "Serie",
+    "availableMovies":"Verfügbare Filme",
+    "rent":"Miete",
+    "return":"Zurückkehren",
+    "yourMovies":"Ihre Filme",
+    
+    "navbar": {
+        "home": "Heim",
+        "movies": "Filme",
+        "rent": "Miete",
+        "login": "Einloggen",
+        "logout": "Ausloggen",
+        "addmovies": "Filme hinzufügen",
+        "dataBase": "Datenbank",
+        "analytics":"Analytik"
+      },
+    "auth": {
+        "email": "Bitte geben Sie ihre E-Mail-Adresse ein ",
+        "password": "Bitte geben Sie Ihr Passwort ein :",
+        "login": "Einloggen",
+        "signup": "Anmelden",
+        "account": "Sie haben kein Konto? Klick hier",
+        "already_have":"Sie haben bereits ein Konto? Klick hier",
+        "pass":"Passwort",
+        "em":"Email"
+    
+      },
+    "items": {
+        "Home": "Heim",
+        "Addmovies": "Filme",
+        "DataBase": "Miete"
+    },
+    "landing": {
+        "welcome": "Willkommen zu",
+        "desc": "Die größte Filmdatenbank im Internet",
+        "bGetStarted": "Loslegen"
+
+    },
+    "carousel": {
+        "about": "Um",
+        "favorite": "Favorit"
+      },
+    "denied": {
+      "desc": "Zugriff abgelehnt",
+      "permission":"Sie sind nicht berechtigt, auf diese Seite zuzugreifen."
+    },
+    "footer":{
+      "home": "Heim",
+      "features":"Merkmale",
+      "about":"Um"
+
+    },
+    "admin":{
+      "nonRented": "nicht ausgeliehene Filme",
+      "rented": "ausgeliehene Filme"
+    },
+    "errors":{
+      "no_movies_available": " Derzeit sind keine Filme in unserem Shop verfügbar.",
+      "api_not_working": "API funktioniert im Moment nicht :)",
+      "enter_search": "Bitte geben Sie Ihre Suche ein!",
+      "no_rented_movies": "Derzeit haben Sie keine ausgeliehenen Filme"
+    }
+
+}
